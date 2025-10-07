@@ -42,23 +42,22 @@ Technology and Furniture categories overall profitable, while some Office Suppli
 
 **📂 Project Files**
 Overview dashboard (Q4 2018 snapshot)
-
-Story 1
+<img src="https://github.com/SwikritiKhare/Retail-Sales----Tableau/blob/main/images/Story%201.png" width=800>
 
 NYC-focused performance analysis (2017–2018)
+<img src="https://github.com/SwikritiKhare/Retail-Sales----Tableau/blob/main/images/Story%202.png" width=800>
 
-Story 1
+
 
 Central region performance (2018)
+<img src="https://github.com/SwikritiKhare/Retail-Sales----Tableau/blob/main/images/Story%203.png" width=800>
 
-Story 1
+
 
 Overall performance (2017–2018 full period)
+<img src="https://github.com/SwikritiKhare/Retail-Sales----Tableau/blob/main/images/Story%204.png" width=800>
 
-Story 1
 
-🌍 Live Dashboard
-👉 View on Tableau Public
 
 **🔑 Insights from Dashboards**
 Central Region achieved targets, unlike other regions.
